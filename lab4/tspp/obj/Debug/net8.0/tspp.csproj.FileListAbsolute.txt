@@ -1,0 +1,14 @@
+C:\Users\dmutr\source\repos\tspp\tspp\bin\Debug\net8.0\tspp.exe
+C:\Users\dmutr\source\repos\tspp\tspp\bin\Debug\net8.0\tspp.deps.json
+C:\Users\dmutr\source\repos\tspp\tspp\bin\Debug\net8.0\tspp.runtimeconfig.json
+C:\Users\dmutr\source\repos\tspp\tspp\bin\Debug\net8.0\tspp.dll
+C:\Users\dmutr\source\repos\tspp\tspp\bin\Debug\net8.0\tspp.pdb
+C:\Users\dmutr\source\repos\tspp\tspp\obj\Debug\net8.0\tspp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmutr\source\repos\tspp\tspp\obj\Debug\net8.0\tspp.AssemblyInfoInputs.cache
+C:\Users\dmutr\source\repos\tspp\tspp\obj\Debug\net8.0\tspp.AssemblyInfo.cs
+C:\Users\dmutr\source\repos\tspp\tspp\obj\Debug\net8.0\tspp.csproj.CoreCompileInputs.cache
+C:\Users\dmutr\source\repos\tspp\tspp\obj\Debug\net8.0\tspp.dll
+C:\Users\dmutr\source\repos\tspp\tspp\obj\Debug\net8.0\refint\tspp.dll
+C:\Users\dmutr\source\repos\tspp\tspp\obj\Debug\net8.0\tspp.pdb
+C:\Users\dmutr\source\repos\tspp\tspp\obj\Debug\net8.0\tspp.genruntimeconfig.cache
+C:\Users\dmutr\source\repos\tspp\tspp\obj\Debug\net8.0\ref\tspp.dll
